@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore everything
+*
+
+# Allow C# source files
+!*.cs
+
+
+
+# Allow project folder
+!23092026/
+
+# Allow C# files inside
+!23092026/*.cs
